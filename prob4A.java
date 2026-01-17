@@ -1,5 +1,5 @@
 import java.util.*;
-public class prob{
+public class prob4A{
     public static void main(String arg[]){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
