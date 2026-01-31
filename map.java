@@ -75,4 +75,19 @@ public class map {
 
 
     }
+
+    public static int getOrDefault(char ch, int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getOrDefault'");
+    }
+
+    public static void put(char ch, int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'put'");
+    }
+
+    public static int get(char ch) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'get'");
+    }
 }
